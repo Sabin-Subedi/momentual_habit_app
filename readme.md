@@ -1,13 +1,13 @@
 <p align="center">
     <a href="https://expo.dev/@sabin125/momentual_habit">
-        <img src="app/assets/logo.png" width="100" alt="Done With It Logo"/>
+        <img src="./app_logo.png" width="100" alt="Monumental Habits Logo"/>
     </a>
     <h1 align="center"> Monumental Habits </h1>
-    <p align="center">Track your habits on the go.</p>
+    <p align="center">Build habits that lasts.</p>
 </p>
 
 <p align="center">
-    An application for tracking your habits.
+   A Productivity App that is uniquely designed to help users build habits that lasts. 
 </p>
 
 <p align="center">
@@ -92,8 +92,6 @@ To run the application on your machine, follow the steps below:
 
 * `Splash Screen` - Logo Screen Design while the app is launching.
 
-<p align="center">
-    <a href="https://expo.io/@nathanabela/donewithit">
-        <img src="app/app/assets/logo.png" width="50" alt="Done With It Logo"/>
+ <a href="https://expo.dev/@sabin125/momentual_habit">
+        <img src="./app_logo.png" width="100" alt="Monumental Habits Logo"/>
     </a>
-</p>
