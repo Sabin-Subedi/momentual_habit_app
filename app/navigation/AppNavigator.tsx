@@ -2,6 +2,7 @@ import { createNativeStackNavigator } from "@react-navigation/native-stack";
 import React from "react";
 import { StyleSheet, Text, View } from "react-native";
 import { RootStackParamList } from "../../types";
+import ForgotScreen from "../screens/ForgotScreen";
 import LoginScreen from "../screens/LoginScreen";
 import RegisterScreen from "../screens/RegisterScreen";
 import WelcomeScreen from "../screens/WelcomeScreen";
@@ -18,6 +19,7 @@ const AppNavigator = () => (
     <Tab.Screen name="Welcome" component={WelcomeScreen} />
     <Tab.Screen name="Login" component={LoginScreen} />
     <Tab.Screen name="Register" component={RegisterScreen} />
+    <Tab.Screen name="Forgot" component={ForgotScreen} />
   </Tab.Navigator>
 );
 

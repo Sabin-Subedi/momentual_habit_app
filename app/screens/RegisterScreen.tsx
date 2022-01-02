@@ -3,7 +3,6 @@ import React from "react";
 import {
   Image,
   StyleSheet,
-  Text,
   TouchableWithoutFeedback,
   View,
 } from "react-native";

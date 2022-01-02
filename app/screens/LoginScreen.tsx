@@ -133,7 +133,7 @@ export default function LoginScreen({
             )}
           </Formik>
           <TouchableWithoutFeedback
-            onPress={() => navigation.navigate("Welcome")}
+            onPress={() => navigation.navigate("Forgot")}
           >
             <AppText
               style={[styles.infoText, { textDecorationLine: "underline" }]}
