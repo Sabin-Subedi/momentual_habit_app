@@ -2,7 +2,6 @@
     <a href="https://expo.dev/@sabin125/momentual_habit">
         <img src="./app_logo.png" width="300" alt="Monumental Habits Logo"/>
     </a>
-    <h1 align="center"> Monumental Habits </h1>
     <p align="center">Build habits that lasts.</p>
 </p>
 
