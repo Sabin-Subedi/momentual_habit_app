@@ -1,10 +1,15 @@
-
 export default {
-  primary: '#f65b4e',
-  twilight: '#29319f',
-  morning: '#ffba7c',
+  primary: "#f65b4e",
+  twilight: "#29319f",
+  morning: "#ffba7c",
   fog: "#ffdeef",
-  eclipse: '#573353',
-  white: '#fff',
-  black: '#000',
+  eclipse: "#573353",
+  white: "#fff",
+  black: "#000",
+  yellow: "#FC9D45",
+  orange: "#FDA758",
+  yellowLight: "#F9B566",
+  orangeLight: "#FFF6ED",
+  danger: "#F65B4E",
+  backgroundColor: "#FFF3E9",
 };

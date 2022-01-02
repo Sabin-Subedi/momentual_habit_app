@@ -1,17 +1,24 @@
 import React from "react";
-import { View, Text, SafeAreaView, StyleSheet } from "react-native";
-import { SafeAreaViewProps } from "react-native-safe-area-context";
-import Constants from "expo-constants";
+import { View, SafeAreaView, StyleSheet } from "react-native";
 
-const Screen: React.FC = ({ children, style }: SafeAreaViewProps) => {
+import Constants from "expo-constants";
+import { SafeAreaViewProps } from "react-native-safe-area-context";
+
+function Screen({ children, style }: SafeAreaViewProps) {
   return (
-    <SafeAreaView style={[style, styles.safeArea]}>{children}</SafeAreaView>
+    <SafeAreaView style={styles.safeArea}>
+      <View style={[style, styles.container]}>{children}</View>
+    </SafeAreaView>
   );
-};
+}
 
 const styles = StyleSheet.create({
   safeArea: {
     paddingTop: Constants.statusBarHeight,
+    flex: 1,
+  },
+  container: {
+    flex: 1,
   },
 });
 
