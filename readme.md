@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://expo.dev/@sabin125/momentual_habit">
-        <img src="./app_logo.png" width="100" alt="Monumental Habits Logo"/>
+        <img src="./app_logo.png" width="300" alt="Monumental Habits Logo"/>
     </a>
     <h1 align="center"> Monumental Habits </h1>
     <p align="center">Build habits that lasts.</p>
@@ -91,7 +91,8 @@ To run the application on your machine, follow the steps below:
 * `Reusable Components` - Button, Icon, Forms, Screen, Text, Text Input and more.
 
 * `Splash Screen` - Logo Screen Design while the app is launching.
-
+<p align="center">
  <a href="https://expo.dev/@sabin125/momentual_habit">
         <img src="./app_logo.png" width="100" alt="Monumental Habits Logo"/>
     </a>
+</p>
